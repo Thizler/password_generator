@@ -13,3 +13,9 @@
   - Front / Behind / Between
 - หน้าแสดงผลรหัสผ่านที่สร้างแล้ว พร้อมปุ่ม **Copy** แต่ละอัน
 - มีระบบ Flash message แจ้งเตือนสำเร็จ/ผิดพลาด
+  
+## Authors
+Department of Computer Science, Srinakharinwirot University
+- Korawich Chunoi - korawich.chunoi@g.swu.ac.th
+- Kunanon Hareutaitam - kunanon.mas@g.swu.ac.th
+- Wuttikorn Jantawises - wuttikorn.jantawises@g.swu.ac.th
