@@ -1,3 +1,15 @@
-Presentation : https://www.canva.com/design/DAF2F9uo6ss/PH6UgDKQ4UJPeZvACn1M4g/edit?utm_content=DAF2F9uo6ss&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# Password Generator Web (Flask)
 
-Video on Youtuber : https://youtu.be/mKIVlT5Z1Zs
+เว็บแอปสำหรับ **สร้างรหัสผ่าน (Generate Passwords)** ตามจำนวน/ความยาวที่กำหนด พร้อมตัวเลือกชุดอักขระ (ตัวอักษร/ตัวเลข/อักขระพิเศษ) และสามารถใส่ **Keyword** เพื่อผสมในรหัสผ่านได้ (ด้านหน้า/ด้านหลัง/แทรกกลาง)
+
+## Features
+- สร้างรหัสผ่านได้หลายอันในครั้งเดียว (กำหนด Numbers of Passwords)  
+- กำหนดความยาวรหัสผ่าน (Password Length)
+- เลือกชุดอักขระ:
+  - Include Text (a-z, A-Z)
+  - Include Number (0-9)
+  - Include Special Character (!@#$...)
+- ใส่ Keyword และเลือกตำแหน่งของ Keyword:
+  - Front / Behind / Between
+- หน้าแสดงผลรหัสผ่านที่สร้างแล้ว พร้อมปุ่ม **Copy** แต่ละอัน
+- มีระบบ Flash message แจ้งเตือนสำเร็จ/ผิดพลาด
